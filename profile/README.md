@@ -1,4 +1,4 @@
-## There is a shooting laboratory for Ronan 👋
+## A shooting laboratory for Ronan 👋
 
 <!--
 
